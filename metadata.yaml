@@ -1,0 +1,27 @@
+_repo: Shores-of-the-Polar-Sea-A-Narrative-of-the-Arctic-Expedition-of-1875-6_56424
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moss, Edward L. (Edward Lawton)
+    alias: Moss, Edward Lawton
+    birthdate: 1843
+    deathdate: 1880
+    gutenberg_agent_id: '48842'
+    url: http://www.gutenberg.org/2009/agents/48842
+description: ''
+gutenberg_issued: '2018-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56424'
+  lccn: 05038900
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions'
+- !lcsh 'Nares, George S. (George Strong), 1831-1915'
+- !lcc 'G'
+- GITenberg
+title: 'Shores of the Polar Sea: A Narrative of the Arctic Expedition of 1875-6'
+url: http://www.gutenberg.org/ebooks/56424
