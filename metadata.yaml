@@ -1,5 +1,8 @@
 _repo: Shores-of-the-Polar-Sea-A-Narrative-of-the-Arctic-Expedition-of-1875-6_56424
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56424-h/images/cover.jpg
 creator:
   author:
     agent_name: Moss, Edward L. (Edward Lawton)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48842'
     url: http://www.gutenberg.org/2009/agents/48842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56424#Shores-of-the-Polar-Sea-A-Narrative-of-the-Arctic-Expedition-of-1875-6
 gutenberg_issued: '2018-01-26'
 gutenberg_type: Text
 identifiers:
